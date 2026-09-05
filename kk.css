@@ -1,0 +1,15 @@
+body{
+	background-attachment: fixed;
+	background-color:white;
+	background-size: cover;
+	font-size: 22px;
+	color:black;
+	font-family: "Times New Roman",Times,serif;
+}
+
+h1,h2,h3{
+	font-family: "times new roman",serif;
+	font-size: 28px;
+	color:brown;
+	font-weight:bold;
+}

@@ -1,0 +1,28 @@
+body {
+	background-image:url("same.jpg");
+	background-attachment :fixed;
+	 background-size:cover;
+	 font-size: 18px;
+	color:red;
+	font-family: "Times New Roman",Times,serif;
+}
+banner h1{
+	margin-bottom:10px;
+	font-size:28px;
+}
+.container{
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+}
+.section{
+	padding:20px;
+	flex:1;
+}
+h1,h2,h3,h4{
+	font-family:"Times New Roman",Times,serif;
+	color: black;
+	font-style:bold;
+	font-size:28px;
+	text-align:center;
+}
